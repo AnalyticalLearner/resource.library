@@ -1,0 +1,23 @@
+Here is a list of some common ICD-10 codes and their associated diagnoses:
+
+1. **E11.9** - Type 2 diabetes mellitus without complications  
+2. **I10** - Essential (primary) hypertension  
+3. **M54.5** - Low back pain  
+4. **J45.40** - Moderate persistent asthma, uncomplicated  
+5. **F32.9** - Major depressive disorder, single episode, unspecified  
+6. **K21.9** - Gastro-esophageal reflux disease without esophagitis  
+7. **I63.9** - Cerebral infarction, unspecified  
+8. **N39.0** - Urinary tract infection, site not specified  
+9. **R07.9** - Chest pain, unspecified  
+10. **J18.9** - Pneumonia, unspecified organism  
+11. **C50.9** - Malignant neoplasm of breast, unspecified  
+12. **Z00.00** - Encounter for general adult medical examination without abnormal findings  
+13. **F41.9** - Anxiety disorder, unspecified  
+14. **I25.10** - Atherosclerotic heart disease of native coronary artery without angina pectoris  
+15. **L40.9** - Psoriasis, unspecified  
+16. **R11.0** - Nausea  
+17. **M17.9** - Osteoarthritis of knee, unspecified  
+18. **F50.9** - Eating disorder, unspecified  
+19. **K52.9** - Noninfective gastroenteritis and colitis, unspecified  
+20. **Z71.9** - Counseling, unspecified  
+
